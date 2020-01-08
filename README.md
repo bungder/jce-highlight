@@ -8,7 +8,7 @@ jce语法高亮
 ## vundle
 .vimrc 下加入以下的语句
 ```viml
-Bundle 'tenghui0425/jce-highlight'
+Bundle 'tenfyzhong/jce-highlight'
 ```
 
 ## 不使用vundle
